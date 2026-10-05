@@ -111,7 +111,7 @@ Plaintext
 
 ---
 
-### **Kuidas see fail kiiresti terminalis luua:**
+### **How to quickly create this file in the terminal:**
 
 Käivita oma Ubuntu terminalis kaustas `~/k8s-security-lab`:
 
